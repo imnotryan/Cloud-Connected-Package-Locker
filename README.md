@@ -1,5 +1,6 @@
 # Cloud-Connected-Package-Locker
 
-Here is a video of the locker: 
+Schematic of Hardware: 
 
-https://www.youtube.com/watch?v=IIwitu3L88s
+<img width="883" height="607" alt="image" src="https://github.com/user-attachments/assets/b138aa1d-e1be-4682-a8ae-3e53b6f9d96c" />
+
